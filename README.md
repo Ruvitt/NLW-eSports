@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-![preview](.github.projeto.png)
+![preview]([.github.projeto.png](https://github.com/wendersonVibes/nlw-esports-explorer-project/blob/master/.github/preview.png))
 
 Projeto construido durante a Next Level Week da Rocketseat.
 
